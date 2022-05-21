@@ -1,5 +1,6 @@
 # Livro de Receitas :man_cook:
 
-Ola! bem vindo
+_Ola! bem vindo ao meu livro de receitas_
 
-- strogonoff
+- strogonoff de frango
+- Pavê
